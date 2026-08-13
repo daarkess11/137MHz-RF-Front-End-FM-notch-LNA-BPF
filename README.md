@@ -19,6 +19,7 @@
 **Noise Figure (NF)** | ~1.84 dB *(simulation only; expect 2–3 dB in real hardware due to PCB parasitics and tolerances)*
 
 **Frequency range** | 130–145 MHz (optimized for 137.5 MHz NOAA/Meteor-M downlink)
+
 *Note: Not suitable for other frequency bands without redesign*
 ## Design Approach
 
