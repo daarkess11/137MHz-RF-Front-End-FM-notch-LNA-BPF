@@ -29,7 +29,7 @@
 ## Repo structure
 
 - [`/docs`](./docs) — full 16-page engineering report
-- [`/hardware`](./hardware) — KiCad project files and Gerber zip for manufacturing
+- [`/hardware`](./hardware) — KiCad project files and Gerber zip for manufacturing + BOM list
   
 Below is a quick summary with the PCB render from KiCad and a couple of screenshots from QUCS-S with the simulation results and schematics.
 
