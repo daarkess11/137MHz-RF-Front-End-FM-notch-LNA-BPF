@@ -27,11 +27,8 @@
 - **EM simulation:** Not performed (CPWG geometry validated with calculator/published formulas at 137 MHz)
 ## Repo structure
 
-- [`/docs`](./docs) — full 16-page engineering report + quick summary
+- [`/docs`](./docs) — full 16-page engineering report
 - [`/hardware`](./hardware) — KiCad project files and Gerber zip for manufacturing
-
-If you're looking for the project summary, check the [`/docs`](./docs) folder for the full report. You'll find the KiCad project files and the Gerber zip for manufacturing in the [`/hardware`](./hardware) folder.
-
 Below is a quick summary with the PCB render from KiCad and a couple of screenshots from QUCS-S with the simulation results and schematics.
 
 ## ⚠️ Prototype Status
