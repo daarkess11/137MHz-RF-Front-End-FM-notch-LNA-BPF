@@ -16,6 +16,15 @@
 
 ¹ *Above the .s2p model limits (~500 MHz–4 GHz range, depending on component), the stability data comes from simulator extrapolation, not real measurements, check the stability section in the full report before relying on it. Real-world verification with a VNA will follow once I've built and tested the board.*
 
+**Noise Figure (NF)** | ~1.84 dB *(simulation only; expect 2–3 dB in real hardware due to PCB parasitics and tolerances)*
+
+**Frequency range** | 130–145 MHz (optimized for 137.5 MHz NOAA/Meteor-M downlink)
+*Note: Not suitable for other frequency bands without redesign*
+## Design Approach
+
+- **Simulation:** QUCS-S with real component S-parameters
+- **Validation:** First prototype testing with VNA planned for [yet to determine]
+- **EM simulation:** Not performed (CPWG geometry validated with calculator/published formulas at 137 MHz)
 ## Repo structure
 
 - [`/docs`](./docs) — full 16-page engineering report + quick summary
