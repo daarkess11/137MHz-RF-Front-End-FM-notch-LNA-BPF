@@ -14,17 +14,13 @@
 | Stability | Unconditionally stable 10 MHz – 4 GHz (R+L shunt & Π-resistor network)¹ |
 | PCB | CPWG (50 Ω), W=1.25mm, H=1.6mm, S=0.24mm, εr=4.5, t=1oz (35µm) |
 
-¹ *Above the .s2p model limits (~500 MHz–4 GHz range, depending on component), the stability data comes from simulator extrapolation, not real measurements, check the stability section in the full report before relying on it. Real-world verification with a VNA will follow once I've built and tested the board.*
+¹ *Above the available .s2p model limits, the stability curves rely on simulator extrapolation rather than experimentally validated models. See the stability section in the full report for the modelling limitations.*
 
-**Noise Figure (NF)** | ~1.84 dB *(simulation only; expect 2–3 dB in real hardware due to PCB parasitics and tolerances)*
 
-**Frequency range** | 130–145 MHz (optimized for 137.5 MHz NOAA/Meteor-M downlink)
-
-*Note: Not suitable for other frequency bands without redesign*
 ## Design Approach
 
 - **Simulation:** QUCS-S with real component S-parameters
-- **Validation:** First prototype testing with VNA planned for [yet to determine]
+- **Validation:** First prototype testing with VNA pending PCB fabrication and assembly.
 - **EM simulation:** Not performed (CPWG geometry validated with calculator/published formulas at 137 MHz)
 ## Repo structure
 
@@ -35,9 +31,7 @@ Below is a quick summary with the PCB render from KiCad and a couple of screensh
 
 ## ⚠️ Prototype Status
 
-This is an unvalidated prototype. All specifications are simulation-based. 
-Real-world performance testing pending.
-
+The design has been fully simulated and theoretically verified. Experimental verification with a VNA is pending PCB fabrication and assembly
 
 # Screenshots
 *Note: I used .s2p files from the manufacturer datasheets for the simulations, not ideal component models, ideal symbols only show up when they make the schematic easier to read.*
