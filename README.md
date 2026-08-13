@@ -1,6 +1,6 @@
 # 137MHz-VHF-Satellite-LNA-Receiver
 If you are looking for the project summary check the /docs folder for the full report. You’ll find the KiCad project files and the Gerber zip for manufacturing in the /hardware folder.
-Here you can find a quick summary with the PCB from KiCad and a couple screenshots from QUCS-S with the simulation measures and schematics, the **overall NF is around 1.84dB** (only simulated!!).
+Here you can find a quick summary with the PCB from KiCad and a couple screenshots from QUCS-S with the simulation results and schematics, the **overall NF is around 1.84dB** (simulation/analytical estimate only, not experimentally measured!!).
 ## Please, do not order this PCB just yet!
 
 I am a student, and as much as I trust my simulations, this is still a prototype. I’m currently buried in exams and labs, so I haven’t had the chance to physically solder or test the board with a VNA yet.
