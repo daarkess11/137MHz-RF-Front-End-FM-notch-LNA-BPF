@@ -14,7 +14,7 @@
 | Stability | Unconditionally stable 10 MHz – 4 GHz (R+L shunt & Π-resistor network)¹ |
 | PCB | CPWG (50 Ω), via-stitching |
 
-¹ *Above the .s2p model limits (~500 MHz–4 GHz range, depending on component), the stability data comes from simulator extrapolation, not real measurements — check the stability section in the full report before relying on it. Real-world verification with a VNA will follow once I've built and tested the board.*
+¹ *Above the .s2p model limits (~500 MHz–4 GHz range, depending on component), the stability data comes from simulator extrapolation, not real measurements, check the stability section in the full report before relying on it. Real-world verification with a VNA will follow once I've built and tested the board.*
 
 ## Repo structure
 
