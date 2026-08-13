@@ -14,13 +14,13 @@
 | Stability | Unconditionally stable 10 MHz – 4 GHz (R+L shunt & Π-resistor network)¹ |
 | PCB | CPWG (50 Ω), W=1.25mm, H=1.6mm, S=0.24mm, εr=4.5, t=1oz (35µm) |
 
-¹ *Above the available .s2p model limits, the stability curves rely on simulator extrapolation rather than experimentally validated models. See the stability section in the full report for the modelling limitations.*
+¹*Above the available .s2p model limits, the stability curves rely on simulator extrapolation and should be treated as indicative rather than physically validated results. See the stability section in the full report for the modelling limitations.*
 
 
 ## Design Approach
 
 - **Simulation:** QUCS-S with real component S-parameters
-- **Validation:** PCB fabrication and assembly pending
+- **Validation:** Experimental VNA testing pending
 - **EM simulation:** Not performed (CPWG geometry validated with calculator/published formulas at 137 MHz)
 ## Repo structure
 
