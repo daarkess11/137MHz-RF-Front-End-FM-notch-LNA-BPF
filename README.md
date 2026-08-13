@@ -31,9 +31,8 @@ I am a student, and as much as I trust my simulations, this is still a prototype
 
 I'd hate for you to spend your money on manufacturing a "castaña" (a lemon) only to find out it needs a redesign. Let me be the test pilot. Give me a few months to finish my exams, build the first unit, and verify the real-world performance. If the measurements look good, I'll update this repo and give the "green light" — then you can build your own with confidence!
 
-## Screenshots
+# Screenshots
 
-*(PCB render from KiCad and QUCS-S simulation plots — add images here)*
 ## Quick Summary (PCB + Simulations)
 ### PCB
 <img width="1902" height="922" alt="137MHz_RF_FrontEnd" src="https://github.com/user-attachments/assets/9ccd34ab-54cb-4d3c-bd93-b4ec9240ddcb" />
