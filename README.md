@@ -12,7 +12,7 @@
 | Noise Figure (NF) | ~1.84 dB *(simulation/analytical estimate only, not experimentally measured!!)* |
 | Out-of-band rejection (88–108 MHz) | -34.8 dB to -50 dB (cascaded) |
 | Stability | Unconditionally stable 10 MHz – 4 GHz (R+L shunt & Π-resistor network)¹ |
-| PCB | CPWG (50 Ω), via-stitching |
+| PCB | CPWG (50 Ω), W=1.25mm, H=1.6mm, S=0.24mm, εr=4.5, t=1oz (35µm) |
 
 ¹ *Above the .s2p model limits (~500 MHz–4 GHz range, depending on component), the stability data comes from simulator extrapolation, not real measurements, check the stability section in the full report before relying on it. Real-world verification with a VNA will follow once I've built and tested the board.*
 
