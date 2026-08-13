@@ -10,7 +10,7 @@ I’d hate for you to spend your money on manufacturing a "castaña" (a lemon) o
 ### PCB
 <img width="1902" height="922" alt="137MHz_RF_FrontEnd" src="https://github.com/user-attachments/assets/9ccd34ab-54cb-4d3c-bd93-b4ec9240ddcb" />
 
-### S[2,1] graphic and measures (only up to 600MHz for a better view, check /docs if you want to check higher frequencies)
+### S[2,1] graphic and measures (only up to 600MHz for a better view, check /docs if you want to see higher frequencies)
 <img width="1249" height="763" alt="Captura4" src="https://github.com/user-attachments/assets/ddc5bf62-5228-498d-b46c-dc70e5a33df6" />
 <img width="429" height="88" alt="image" src="https://github.com/user-attachments/assets/88863b42-5b3f-4456-b7bd-305d6cdac4c4" />
 
