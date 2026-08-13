@@ -20,7 +20,7 @@
 ## Design Approach
 
 - **Simulation:** QUCS-S with real component S-parameters
-- **Validation:** First prototype testing with VNA pending PCB fabrication and assembly.
+- **Validation:** PCB fabrication and assembly pending
 - **EM simulation:** Not performed (CPWG geometry validated with calculator/published formulas at 137 MHz)
 ## Repo structure
 
@@ -31,7 +31,7 @@ Below is a quick summary with the PCB render from KiCad and a couple of screensh
 
 ## ⚠️ Prototype Status
 
-The design has been fully simulated and theoretically verified. Experimental verification with a VNA is pending PCB fabrication and assembly
+The design has been fully simulated and theoretically verified. Experimental verification will follow once the PCB has been fabricated and tested with a VNA.
 
 # Screenshots
 *Note: I used .s2p files from the manufacturer datasheets for the simulations, not ideal component models, ideal symbols only show up when they make the schematic easier to read.*
