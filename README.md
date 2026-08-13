@@ -40,6 +40,7 @@ Real-world performance testing pending.
 
 
 # Screenshots
+*Note: I used .s2p files from the manufacturer datasheets for the simulations, not ideal component models, ideal symbols only show up when they make the schematic easier to read.*
 
 ### PCB
 <img width="1902" height="922" alt="137MHz_RF_FrontEnd" src="https://github.com/user-attachments/assets/9ccd34ab-54cb-4d3c-bd93-b4ec9240ddcb" />
