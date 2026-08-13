@@ -17,11 +17,13 @@ I’d hate for you to spend your money on manufacturing a "castaña" (a lemon) o
 ### Stability
 <img width="901" height="718" alt="Captura56" src="https://github.com/user-attachments/assets/da217fe8-5c95-4729-af54-3f1256d212df" />
 
-### Schematics
+## Schematics
 ### Cauer Notch 
 <img width="5100" height="1448" alt="Captura4_Nero_AI_Image_Upscaler_Photo_Face" src="https://github.com/user-attachments/assets/a9513412-9d13-4c5e-81b0-508daa168b4a" />
+
 ### LNA
 <img width="4912" height="2696" alt="Captura57_Nero_AI_Image_Upscaler_Photo_Face" src="https://github.com/user-attachments/assets/cb6baafe-f084-4b75-ab65-5b1752a7dac5" />
+
 ### Band-Pass Butterworth
 <img width="1036" height="513" alt="image" src="https://github.com/user-attachments/assets/7b104efb-104a-4022-8c3c-e5752f51ca61" />
 
