@@ -30,7 +30,6 @@ Below is a quick summary with the PCB render from KiCad and a couple of screensh
 This is an unvalidated prototype. All specifications are simulation-based. 
 Real-world performance testing pending.
 
-I'd hate for you to spend your money on manufacturing a lemon only to find out it needs a redesign. Let me be the test pilot. Give me a few months to finish my exams, build the first unit, and verify the real-world performance. If the measurements look good, I'll update this repo and give the "green light", then you can build your own with confidence!
 
 # Screenshots
 
