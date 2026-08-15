@@ -6948,7 +6948,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "3rd Order Butterworth band-pass\n120Mhz-175MHz"
+	(gr_text "3rd Order Butterworth band-pass\n125Mhz-170MHz"
 		(at 126.83 111.25 0)
 		(layer "F.SilkS")
 		(uuid "c35ce578-b076-4cdc-ab92-f1e148c277c3")
