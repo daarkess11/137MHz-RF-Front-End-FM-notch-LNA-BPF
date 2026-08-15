@@ -10,7 +10,7 @@
 | Active device | PGA-103+ E-PHEMT MMIC |
 | Cascaded gain (S21) | 22 dB @ 137 MHz |
 | Noise Figure (NF) | ~1.84 dB *(simulation/analytical estimate only, not experimentally measured!!)* |
-| Out-of-band rejection (88–108 MHz) | -34.3 dB to -48.8 dB (cascaded) |
+| Out-of-band rejection (88–108 MHz) | -33.3 dB to -48.8 dB (cascaded) |
 | Stability | Unconditionally stable 10 MHz – 4 GHz (R+L shunt)¹ |
 | PCB | CPWG (50 Ω), W=1.25mm, H=1.6mm, S=0.24mm, εr=4.5, t=1oz (35µm) |
 
