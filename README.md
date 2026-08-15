@@ -11,7 +11,7 @@
 | Cascaded gain (S21) | 22 dB @ 137 MHz |
 | Noise Figure (NF) | ~1.84 dB *(simulation/analytical estimate only, not experimentally measured!!)* |
 | Out-of-band rejection (88–108 MHz) | -34.3 dB to -48.8 dB (cascaded) |
-| Stability | Unconditionally stable 10 MHz – 4 GHz (R+L shunt & Π-resistor network)¹ |
+| Stability | Unconditionally stable 10 MHz – 4 GHz (R+L shunt)¹ |
 | PCB | CPWG (50 Ω), W=1.25mm, H=1.6mm, S=0.24mm, εr=4.5, t=1oz (35µm) |
 
 ¹*Above the available .s2p model limits, the stability curves rely on simulator extrapolation and should be treated as indicative rather than physically validated results. See the stability section in the full report for the modelling limitations.*
