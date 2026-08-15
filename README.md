@@ -37,7 +37,7 @@ The design has been fully simulated and theoretically verified. Experimental ver
 *Note: I used .s2p files from the manufacturer datasheets for the simulations, not ideal component models, ideal symbols only show up when they make the schematic easier to read.*
 
 ### PCB
-<img width="1989" height="964" alt="137MHz_RF_FrontEnd" src="https://github.com/user-attachments/assets/82202d41-86b9-4f73-b2e3-7e7787ec1db3" />
+<img width="1989" height="964" alt="137MHz_RF_FrontEnd" src="https://github.com/user-attachments/assets/a3a0f6ca-0faa-4810-ac9a-ce91aff4abb7" />
 
 ### S[2,1] graphic and measures (only up to 600MHz for a better view, check /docs if you want to see higher frequencies)
 <img width="1055" height="595" alt="image" src="https://github.com/user-attachments/assets/af07083d-4285-4487-982a-5e9da14dffb9" />
