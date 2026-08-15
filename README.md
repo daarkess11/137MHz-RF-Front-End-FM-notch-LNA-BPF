@@ -10,7 +10,7 @@
 | Active device | PGA-103+ E-PHEMT MMIC |
 | Cascaded gain (S21) | 22 dB @ 137 MHz |
 | Noise Figure (NF) | ~1.84 dB *(simulation/analytical estimate only, not experimentally measured!!)* |
-| Out-of-band rejection (88–108 MHz) | -34.8 dB to -50 dB (cascaded) |
+| Out-of-band rejection (88–108 MHz) | -34.3 dB to -48.8 dB (cascaded) |
 | Stability | Unconditionally stable 10 MHz – 4 GHz (R+L shunt & Π-resistor network)¹ |
 | PCB | CPWG (50 Ω), W=1.25mm, H=1.6mm, S=0.24mm, εr=4.5, t=1oz (35µm) |
 
@@ -44,7 +44,7 @@ The design has been fully simulated and theoretically verified. Experimental ver
 <img width="429" height="88" alt="image" src="https://github.com/user-attachments/assets/88863b42-5b3f-4456-b7bd-305d6cdac4c4" />
 
 ### Stability
-<img width="901" height="718" alt="Captura56" src="https://github.com/user-attachments/assets/da217fe8-5c95-4729-af54-3f1256d212df" />
+<img width="1020" height="795" alt="image" src="https://github.com/user-attachments/assets/c5721422-311d-4e02-8eda-6807e5bf5c35" />
 
 ## Schematics
 ### Cauer Notch 
