@@ -1172,7 +1172,7 @@
 				)
 			)
 		)
-		(property "Value" "150nH"
+		(property "Value" "120nH"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(hide yes)
