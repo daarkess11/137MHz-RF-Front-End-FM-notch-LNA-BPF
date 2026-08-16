@@ -4586,7 +4586,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "150nH"
+		(property "Value" "120nH"
 			(at 88.9 106.6799 0)
 			(show_name no)
 			(do_not_autoplace no)
