@@ -1,4 +1,4 @@
-# 137MHz-VHF-Satellite-LNA-Receiver (Work-in-Progress)
+# 137MHz-VHF-Front-End (Work-in-Progress)
 
 137.5 MHz VHF Downlink RF Front-End for satellite ground stations.
 
