@@ -40,8 +40,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.9,
-          "width": 1.475
+          "height": 3.8,
+          "width": 2.0
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -76,52 +76,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "copper_edge_clearance|114700000|100850000|015c0e60-9009-4807-b7b0-564a000f3c78|1ad8b25e-9919-4b27-938a-2927df03ddac",
-          ""
-        ],
-        [
-          "copper_edge_clearance|114700000|105100000|015c0e60-9009-4807-b7b0-564a000f3c78|54cc57e3-9a0f-402c-bfd8-749ffe7f46e7",
-          ""
-        ],
-        [
-          "copper_edge_clearance|114700000|105100000|015c0e60-9009-4807-b7b0-564a000f3c78|91d82fae-2e5f-4db5-9b3c-f746dc8c1b98",
-          ""
-        ],
-        [
-          "copper_edge_clearance|114700000|96600000|015c0e60-9009-4807-b7b0-564a000f3c78|20eb4c0f-3c60-4351-95df-e24c04f13728",
-          ""
-        ],
-        [
-          "copper_edge_clearance|114700000|96600000|015c0e60-9009-4807-b7b0-564a000f3c78|b3b4a158-bf19-4d03-99b2-e3b982ceb87b",
-          ""
-        ],
-        [
-          "copper_edge_clearance|190500000|100800000|015c0e60-9009-4807-b7b0-564a000f3c78|3550e27e-092c-4da9-ac05-e2531c8250fc",
-          ""
-        ],
-        [
-          "copper_edge_clearance|190500000|105050000|015c0e60-9009-4807-b7b0-564a000f3c78|32ac9272-02fe-484c-a904-d47b588bc5d1",
-          ""
-        ],
-        [
-          "copper_edge_clearance|190500000|105050000|015c0e60-9009-4807-b7b0-564a000f3c78|6a93b30b-f30f-46ad-a6fe-5390297e97c4",
-          ""
-        ],
-        [
-          "copper_edge_clearance|190500000|96550000|015c0e60-9009-4807-b7b0-564a000f3c78|2954ec72-55da-4475-b61f-266070802ee0",
-          ""
-        ],
-        [
-          "copper_edge_clearance|190500000|96550000|015c0e60-9009-4807-b7b0-564a000f3c78|92c184fa-6ee0-4959-a304-9f4fb457376f",
-          ""
-        ],
-        [
-          "isolated_copper|170209191|77735407|353f4b79-6117-4fff-84cc-0cb25141dbc2|00000000-0000-0000-0000-000000000000",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -255,6 +210,7 @@
         }
       ],
       "track_widths": [
+        0.0,
         0.0,
         0.5,
         0.7,
