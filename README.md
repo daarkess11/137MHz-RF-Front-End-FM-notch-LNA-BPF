@@ -24,7 +24,7 @@
 - **EM simulation:** Not performed (CPWG geometry validated with calculator/published formulas at 137 MHz)
 ## Repo structure
 
-- [`/docs`](./docs) — full 16-page engineering report
+- [`/simulation`](./simulation) QUCS-S files and .s2p models
 - [`/hardware`](./hardware) — KiCad project files + BOM list
   
 Below is a quick summary with the PCB render from KiCad and a couple of screenshots from QUCS-S with the simulation results and schematics.
